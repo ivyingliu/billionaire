@@ -4,7 +4,7 @@
 
 - Fork the repo on Github.
 - Clone repo on Github down to local machine.
-- Add git remote that points to Gitlord's Github repo on your local repo.
+- Add git remote that points to Gitlord's Github repo on your local repo.(git remote add gitlord https://github.com/PoAhWong/billionaire)
 
 ## Recurring Workflow
 
