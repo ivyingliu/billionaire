@@ -8,7 +8,7 @@
 
 ## Recurring Workflow
 
-1. Make sure you are in the feature branch which contains work you want to provide to Gitlord's Github repo.
+1. Make sure you are in the feature branch which contains work you want to provide to Gitlord's Github repo.(To create and move to branch 'git checkout -b frontend')
 2. Add & Commit your work `git add -A` & `git commit -m 'commit message'`.
 3. To download commits to local machine:
 
